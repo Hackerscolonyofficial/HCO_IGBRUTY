@@ -8,11 +8,11 @@
 
 ## pip install requests rich pyfiglet bs4 faker
 
-## git clone https://github.com/Hackerscolonyofficial/HCO_IGBRUTY.git
+## git clone https://github.com/Hackerscolonyofficial/HCO_IGBRUTY
 
 ## cd HCO_IGBRUTY
 
-## python3 HCO_IGBRUTY
+## python3 HCO_IGBRUTY.py
 
 ### Now to use this tool you will be automatically redirected to our YouTube channel do
 ### subscribe and click on Bell icon and come back to Termux and you Will be able to use
